@@ -1,2 +1,2 @@
 # commons-backend
-Basic backend utilities.
+This is WIP. Don't bother readying (at least yet)...
